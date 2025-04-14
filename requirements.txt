@@ -1,0 +1,8 @@
+# Requirements for BookScraper Pro
+# Latest stable version: https://github.com/yourusername/yourrepo/releases/latest
+
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+concurrent-log-handler==0.9.24
+python-dateutil==2.8.2
