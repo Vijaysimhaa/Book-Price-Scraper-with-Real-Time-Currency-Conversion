@@ -55,7 +55,7 @@ venv\Scripts\activate     # Windows
 # Install dependencies
 pip install -r requirements.txt
 ```
-[![Button Text](https://img.shields.io/badge/Download-📦_requirements.txt-blue?style=for-the-badge&logo=github)](https://github.com/Vijaysimhaa/Book-Price-Scraper-with-Real-Time-Currency-Conversion/releases/download/Scraper/requirements.txt)
+[![Button Text](https://img.shields.io/badge/Download-📦_requirements.txt-green?style=for-the-badge&logo=github)](https://github.com/Vijaysimhaa/Book-Price-Scraper-with-Real-Time-Currency-Conversion/releases/download/Scraper/requirements.txt)
 
 ### Configuration
 1. Get API key from [ExchangeRate-API](https://www.exchangerate-api.com/)
