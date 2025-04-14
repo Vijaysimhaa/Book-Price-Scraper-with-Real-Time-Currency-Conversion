@@ -1,5 +1,5 @@
 # Requirements for BookScraper Pro
-# Latest stable version: https://github.com/yourusername/yourrepo/releases/latest
+# Latest stable version: https://github.com/Vijaysimhaa/Book-Price-Scraper-with-Real-Time-Currency-Conversion/releases/tag/Scraper
 
 requests==2.31.0
 beautifulsoup4==4.12.2
